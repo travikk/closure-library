@@ -172,6 +172,7 @@ requirement: {
   whitelist_regexp: '.+/closure/goog/editor/'
   whitelist_regexp: '.+/closure/goog/style/style.js'
   whitelist_regexp: '.+/closure/goog/testing/'
+  whitelist: 'javascript/template/jslayout/string.js'
 }
 
 requirement: {
@@ -382,6 +383,7 @@ requirement: {
   whitelist_regexp: '.+/closure/goog/net/xpc/'
   whitelist_regexp: '.+/closure/goog/testing/multitestrunner.js'
   whitelist_regexp: '.+/closure/goog/ui/dragdropdetector.js'
+  whitelist: 'maps/consumer/lib/input/internal/dom-event-listener-manager.js'
 }
 
 requirement: {
